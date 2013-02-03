@@ -1,4 +1,58 @@
 appGOF
 ======
 
-Application Web destinée à gérer et à présenter l'offre de formation de l'UFR Sciences
+******************
+<h5>Nature:</h5>
+
+  Application Web 
+  
+******************
+<h5>cadre</h5>
+
+Cette application s'inclut dans le cadre de notre projet de fin d'année.
+
+******************
+<h5>Objectifs:</h5>
+
+  gérer et présenter l'offre de formation de l'UFR.
+  
+******************
+
+<h5>Résumé:</h5>
+
+  Aix-Marseille Université a fait l’acquisition d’un logiciel permettant la gestion de l’offre de
+  formation : ROF (Référentiel de l’Offre de Formation). Cette application permet de construire la
+  structure de l’ensemble de l’offre de formation de l’université mais ne procède à aucune vérification
+  de la cohérence des données.
+  Un logiciel a été développé afin de valider les données générées par ROF. En cas de non 
+  cohérence des données, un message d’erreur est généré. Les données, agrémentées, ou non, des
+  messages d’erreurs sont alors exportées dans un fichier XML à partir de la base de données de
+  l’application ROF. Grâce à ce fichier XML, deux sites Web sont générés permettant la visualisation
+  des données : un site officiel, n’incluant pas les erreurs relevées et une copie de ce site incluant les
+  erreurs (site d’audit).
+  L’objectif du projet est de développer une application permettant, à l’instar du site d’audit, la
+  visualisation de l’ensemble de l’offre de formation, agrémentée des erreurs relevées, et l’édition des
+  données afin de corriger les anomalies.
+
+ 
+****************
+
+<h5>How to install :</h5>
+
+From the installer : 
+
+	Just follow the install wizard.
+
+From the zip :
+
+	just unzip all the files into a directory you want then launch it.
+	
+
+******************
+<h5>développeurs:</h5>
+
+Denis Chavez, 
+Jérome Miralles, 
+Alexandre Monties, 
+Walid Ouchefoune, 
+Jesus Zavarce, 
