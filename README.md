@@ -7,7 +7,7 @@ appGOF
   Application Web 
   
 ******************
-<h4>cadre</h4>
+<h2>cadre</h2>
 
 Cette application s'inclut dans le cadre de notre projet de fin d'année.
 
